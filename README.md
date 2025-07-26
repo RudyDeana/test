@@ -30,7 +30,7 @@ Un sistema VoIP web completo simile a 3CX, progettato per funzionare su Raspberr
 
 ```bash
 # Clona il repository
-git clone <repository-url>
+git clone https://github.com/RudyDeana/test
 cd webvoip-system
 
 # Rendi eseguibile lo script
